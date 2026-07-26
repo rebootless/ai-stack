@@ -114,3 +114,7 @@ Inside, you’ll find:
 - `Partitions/` – persistent sessions for each AI agent.
 
 To reset the app, simply delete the `ai-stack` folder while the application is closed.
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0** — see the [LICENSE](LICENSE) file for details.
